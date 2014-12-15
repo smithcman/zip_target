@@ -1,0 +1,10 @@
+name = Zip Target
+description = Automatically extracts a zip file and builds a link to a target file
+core = 7.x
+dependencies[] = file
+
+; Information added by drupal.org packaging script on 2013-01-31
+version = "7.x-1.0-rc1"
+core = "7.x"
+project = "zip_target"
+;datestamp = "1359651687"

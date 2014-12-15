@@ -1,0 +1,10 @@
+
+/**
+ * Image upload widget.
+ */
+div.zip-target-widget-data {
+  float: left; /* LTR */
+}
+div.zip-target-widget-data input.text-field {
+  width: auto;
+}
